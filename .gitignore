@@ -15,7 +15,8 @@ target/
 .settings
 .springBeans
 .sts4-cache
-
+*.github
+/.github
 ### IntelliJ IDEA ###
 .idea
 *.iws
